@@ -20,7 +20,7 @@ o= 'hmnmmmm'
 line='ok'
 card='ahhhhhhhhhhhhhhhhh'
 result='ahmahmahm'
-token = '7371222023:AAGBCzlxPFqv_wH15gc77v5gJaikVhm30KM'
+token = '6502658830:AAGnH2Djll7cQhLgvgDBHBA7Tn5nmrVPp3s'
 bot=telebot.TeleBot(token,parse_mode="HTML")
 admin=6574060333
 f = Faker()
